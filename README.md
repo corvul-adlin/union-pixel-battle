@@ -29,4 +29,4 @@
 3. Указать `BOT_TOKEN` и `CHANNEL_ID` в Environment Variables.
 
 ---
-*Created by Corvul Dev.*
+*Created by Czerkl Dev.*
