@@ -48,4 +48,4 @@ PORT=10000
 
 ---
 
-Creted with ♥️ dev. Czerkl 
+Created with ♥️ dev. Czerkl 
